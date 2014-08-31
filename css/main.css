@@ -56,4 +56,6 @@ body {
 
 .ryu {
     float: left;
+    height: 494px;
+    overflow-y: hidden;
 }S
